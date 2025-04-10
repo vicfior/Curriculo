@@ -6,7 +6,7 @@ Trabalho avaliativo da matéria de Tecnologias Web cuja atividade é fazer um cu
 
 O portfólio é uma página web simples e estática, criada para reunir minhas principais informações profissionais e acadêmicas. Ele é dividido em seções navegáveis, permitindo que recrutadores e interessados conheçam minhas habilidades de forma organizada.
 
-## Estrutura do site
+## 📜 Estrutura do site
 
 - **Home (`index.html`)**
   - Apresentação pessoal
