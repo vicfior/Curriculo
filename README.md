@@ -24,8 +24,6 @@ O portfólio é uma página web simples e estática, criada para reunir minhas p
   - Habilidades interpessoais
   - Destaque para comunicação, trabalho em equipe, proatividade, entre outros
 
----
-
 ## 🎨 Tecnologias Utilizadas
 
 - **HTML5**: estruturação do conteúdo
@@ -33,8 +31,6 @@ O portfólio é uma página web simples e estática, criada para reunir minhas p
   - Tipografia com **Google Fonts** (`Manrope`, `Special Gothic Expanded One`)
   - Layout com **CSS Grid** e **Flexbox**
   - Background com imagem adaptável
-
----
 
 ## 🛠️ Funcionalidades Implementadas
 
@@ -45,8 +41,6 @@ O portfólio é uma página web simples e estática, criada para reunir minhas p
 - Estilização individual de listas apenas na página de Hard Skills
 - Rodapé com contatos e créditos ajustados visualmente
 - Imagem de fundo invertida e ajustada para diferentes resoluções
-
----
 
 ## 📸 Capturas de Tela
 <div align="center">
