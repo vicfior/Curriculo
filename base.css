@@ -1,0 +1,102 @@
+body {
+    font-family: 'Special Gothic Expanded One', cursive;
+    font-weight: 470;
+    background-image: url('purplebk.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    justify-content: end;
+}
+
+main { 
+    font-family: 'Manrope', sans-serif;
+}
+
+img {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu {
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    padding: 0;
+}
+
+.nome {
+    color: rgb(113, 26, 147);
+    display: flex;
+    flex-direction: row;
+    font-weight: 470;
+    height: fit-content;
+    transform: translateX(-1005px);
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(113, 26, 147);
+    transition: color 0.3s;
+}
+
+.menu a:hover {
+    padding: 2px;
+    color: rgba(182, 75, 158, 0.364)
+}
+
+.imagemPerfil {
+    height: 350px;
+    display: block;
+    justify-self: center;
+    transform: translateY(38px);
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Special Gothic Expanded One';
+    color: rgb(113, 26, 147);
+}
+
+.sobreMim {
+    display: flex;
+    justify-content: center;
+    font-family: 'Manrope';
+    align-content: center;
+    text-align: center;
+}
+
+.contatos{
+    list-style: none;
+    color: rgb(113, 26, 147);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    transform: translateY(89px);
+}
+
+.rodape {
+    font-size: small;
+    color: rgb(113, 26, 147);
+    justify-self: center;
+    padding-top: 100px;
+}
+
+.contatos a {
+    text-decoration: none;
+    color: rgb(113, 26, 147);
+}
+
+.contatos a:hover {
+    padding: 2px;
+    color: rgba(182, 75, 158, 0.364)
+}
+
