@@ -24,10 +24,13 @@ img {
     flex-direction: row;
 }
 
+ul {
+    list-style: none;
+}
+
 .menu {
     display: flex;
     gap: 60px;
-    list-style: none;
     padding: 0;
 }
 
@@ -74,7 +77,6 @@ img {
 }
 
 .contatos{
-    list-style: none;
     color: rgb(113, 26, 147);
     display: flex;
     flex-direction: row;
@@ -99,4 +101,30 @@ img {
     padding: 2px;
     color: rgba(182, 75, 158, 0.364)
 }
+
+.conteiner {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+.coluna {
+    background-color: #ffffff10; /* opcional, só pra separar visualmente */
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.conteiner-hardskills li {
+    text-align: center;
+    font-size: small;
+    background-color: #ffffffe8; /* opcional, só pra separar visualmente */
+    padding: 8px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+ }
+
+ .conteiner-hardskills li:hover {
+    background-color: #f9baf3;
+ }
 
