@@ -1,7 +1,7 @@
 body {
     font-family: 'Special Gothic Expanded One', cursive;
     font-weight: 470;
-    background-image: url('purplebk.jpg');
+    background-image: url('/images/purplebk.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -125,6 +125,28 @@ ul {
  }
 
  .conteiner-hardskills li:hover {
-    background-color: #f9baf3;
+    background-color: #fbc5f58f;
  }
 
+
+.subtitulo {
+    margin-bottom: auto;
+    margin-top: auto;
+    font-weight: bold;
+    color: rgb(113, 26, 147);
+}
+
+.conteiner-softskills .coluna {
+    background-color: #ffffffe8;
+    text-align: center;
+    align-content: auto;
+    border-radius: 30px;
+}
+
+.conteiner-softskills p {
+    font-size: small;
+}
+
+.conteiner-softskills .coluna:hover {
+    background-color: #f9cbf48f;
+}
