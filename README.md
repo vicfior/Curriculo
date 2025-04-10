@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 
 Trabalho avaliativo da matéria de Tecnologias Web cuja atividade é fazer um currículo com os conceitos básicos de HTML e CSS. Neste projeto tenho como objetivo apresentar minhas hard skills, soft skills, experiências profissionais e formação acadêmica de forma clara, moderna e responsiva.
 
