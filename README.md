@@ -2,6 +2,7 @@
 
 Trabalho avaliativo da matéria de Tecnologias Web cuja atividade é fazer um currículo com os conceitos básicos de HTML e CSS. Neste projeto tenho como objetivo apresentar minhas hard skills, soft skills, experiências profissionais e formação acadêmica de forma clara, moderna e responsiva.
 
+
 ## 🌐 Sobre o Projeto
 
 O portfólio é uma página web simples e estática, criada para reunir minhas principais informações profissionais e acadêmicas. Ele é dividido em seções navegáveis, permitindo que recrutadores e interessados conheçam minhas habilidades de forma organizada.
